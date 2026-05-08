@@ -94,6 +94,10 @@ data/raw/*
 *.rds
 *.gz
 
+#ignore specific folders 
+
+data/raw/
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
